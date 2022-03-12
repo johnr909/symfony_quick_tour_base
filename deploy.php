@@ -20,9 +20,7 @@ set('clear_paths_use_sudo', true);
 set('clear_paths', [
     '.git',
     '.gitignore',
-    '.env.local',
     'var',
-    'vendor',
     'symfony_quick_tour_base.sublime-project',
     'symfony_quick_tour_base.sublime-workspace',
 ]);
