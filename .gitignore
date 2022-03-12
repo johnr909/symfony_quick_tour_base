@@ -8,3 +8,6 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+#
+symfony_quick_tour_base.sublime-project
+symfony_quick_tour_base.sublime-workspace
